@@ -48,3 +48,5 @@ http://www.songho.ca/dsp/convolution/convolution2d_example.html
 * You can find test images and csv files here: https://www.dropbox.com/s/s6sws5w4xcnx94e/proj2_files.zip?dl=0
 * To test, place the contents of file_1, file_2, or file_3 directly in the /src/editor directory and run the usage statement with file_1.txt, file_2.txt, or file_3.txt as the input. For instance, ```go run editor.go -p=6 < file_1.txt```.
 * See report.pdf for an analysis of the efficiencies gained from the parallel version.
+
+*Source: This was an assignment from Professor Samuel Lamont, University of Chicago - Parallel Programming.*
