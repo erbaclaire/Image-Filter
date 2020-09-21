@@ -1,3 +1,6 @@
+![](images/IMG_2724.png)
+![](images/IMG_2724_["B","G"].png)
+
 ### Many algorithms in image processing benefit from parallelization. I created an image processing system that reads in a series of images and applies certain effects to them using image convolution. If you are unfamiliar with image convolution then you should read over the following sources before continuing:
 * http://www.songho.ca/dsp/convolution/convolution2d_example.html
 * https://en.wikipedia.org/wiki/Kernel_(image_processing)
