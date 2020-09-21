@@ -1,5 +1,14 @@
+# Image Filtering - Blue, Grayscale, Edge Detection, Sharpen
+
+## Blur and Grayscale Filter
 ![](images/IMG_2724.png)
 ![](images/IMG_2724_["B","G"].png)
+## Sharpen Filter
+![](images/IMG_3695.png)
+![](images/IMG_3695_["S"].png)
+## Grayscale, Sharpen, Edge Detection
+![](images/IMG_4069.png)
+![](images/IMG_4069_["G","S","E"].png)
 
 ### Many algorithms in image processing benefit from parallelization. I created an image processing system that reads in a series of images and applies certain effects to them using image convolution. If you are unfamiliar with image convolution then you should read over the following sources before continuing:
 * http://www.songho.ca/dsp/convolution/convolution2d_example.html
